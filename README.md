@@ -1,4 +1,4 @@
-# Android Experimentation Experiment Plugins
+# Smartphone Experimentation Experiment Plugins
 
 In order to create a mobile Experiment for Organicity experimenters need to implement a Context Plugins that will be executed in the experimenter's smartphones, process the collected data periodically and generate experiment data that are forwarded to the Organicity Platform.
 
